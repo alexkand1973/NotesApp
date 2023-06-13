@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+
+    <string name="et_note_description_add_note_fragment">Note description</string>
+    <string name="et_note_title_add_note_fragment">Note title</string>
+    <string name="btn_save_note_add_note_fragment">Save</string>
+    <string name="btn_save_note_update_note_text_add_note_fragment">Updata</string>
+
+    <string name="fab_content_description_list_fragment">TODO</string>
+
+    <string name="empty_note_title_toast_text_add_note_fragment">"Please fill up note title"</string>
+</resources>
